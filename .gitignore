@@ -1,0 +1,21 @@
+# data
+data/
+*.csv
+*.tsv
+
+# notebook artefacts
+.ipynb_checkpoints/
+notebook_text.json
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# os / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
